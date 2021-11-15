@@ -1,6 +1,7 @@
 # ai
 
 A new Flutter project.
+If you want to run the code, please run your flask server first. 
 
 ## Getting Started
 
